@@ -1,1 +1,1 @@
-# titactoe_minmax
+# AI basic
