@@ -1,3 +1,12 @@
+"""Prevedere prezzo appartamento al mare: 
+parametri in input sono 5: 
+dimensione appartamento, 
+dimensione bagno, 
+distanza dal mare, 
+numero camere, 
+vicinanza al centro paese.
+"""
+
 import math
 import numpy as np
 
